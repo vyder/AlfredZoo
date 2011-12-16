@@ -8,7 +8,7 @@
 
 ### Setup
 
-Open "~/Library/Application\ Support/Alfred/extensions/scripts/Zootool/script.php" and update the `$username` and `$password` fields
+Open `~/Library/Application\ Support/Alfred/extensions/scripts/Zootool/script.php` and update the `$username` and `$password` fields
 
 ### Adding a bookmark
 
