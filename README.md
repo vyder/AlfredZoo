@@ -4,6 +4,16 @@
 
 **AlfredZoo** is an extension for [AlfredApp](http://www.alfredapp.com/) that lets you post bookmarks to [Zootool](http://zootool.com/).
 
+## Usage
+
+### Setup
+
+Open "~/Library/Application\ Support/Alfred/extensions/scripts/Zootool/script.php" and update the `$username` and `$password` fields
+
+### Adding a bookmark
+
+`z <url> <title>` (title can't do spaces right now)
+
 ##Todo:
 * Finish this README file
 * Make encoded settings to work
