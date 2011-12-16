@@ -14,6 +14,8 @@ Open `~/Library/Application\ Support/Alfred/extensions/scripts/Zootool/script.ph
 
 `z <url> <title>` (title can't do spaces right now)
 
+example: `z www.google.com Google`
+
 ##Todo:
 * Finish this README file
 * Make encoded settings to work
