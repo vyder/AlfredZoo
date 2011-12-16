@@ -1,5 +1,8 @@
 # AlfredZoo
 
+## [Download Extension](https://github.com/downloads/vyder/AlfredZoo/AlfredZoo.alfredextension)
+
+
 ## Overview
 
 **AlfredZoo** is an extension for [AlfredApp](http://www.alfredapp.com/) that lets you post bookmarks to [Zootool](http://zootool.com/).
